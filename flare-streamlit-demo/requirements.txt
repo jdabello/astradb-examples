@@ -1,7 +1,7 @@
 streamlit
 python-dotenv
 cassandra-driver
-langchain
+ragstack-ai
 openai
 cassio
 tiktoken
